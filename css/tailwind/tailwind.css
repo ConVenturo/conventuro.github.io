@@ -759,6 +759,14 @@ video {
   width: 5rem;
 }
 
+.w-24 {
+  width: 6rem;
+}
+
+.w-28 {
+  width: 7rem;
+}
+
 .w-4\/6 {
   width: 66.666667%;
 }
